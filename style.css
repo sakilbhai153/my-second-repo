@@ -1,15 +1,10 @@
 .heading1{
-    color: blue;
+    color: brown;
+    text-align: center;
 }
 .para1{
-    color: brown;
-}
-.para2{
-    color: yellow;
-}
-h3{
-    color: chocolate;
+    background-color: aqua;
 }
 .style-color{
-    background-color: aqua;
+    background-color: blue;
 }
